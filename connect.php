@@ -14,7 +14,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password ="list";
+$password ="";
 $dbname = "infinite";
 
 $connect = new mysqli($servername, $username, $password, $dbname);
